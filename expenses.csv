@@ -1,0 +1,17 @@
+Id,Date,Category,Amount,Description
+21,2024-12-02,Bills,25.0,Electricity
+22,2024-12-02,Food,5.0,Water
+23,2024-12-02,Food,250.0,Omakase
+24,2024-12-02,Food,17.0,Sakura Buffet
+25,2024-12-02,Entertainment,3.0,Movie Ticket
+26,2024-12-02,Healthcare,51.0,Eyecare
+27,2024-12-02,Transportation,1.0,Public Bus
+28,2024-12-02,Education,3600.0,AUPP Enrollment Course Fee
+29,2024-12-02,Shopping,10.0,Skincares
+30,2024-12-02,Utilities,5.0,Faucet
+31,2024-12-02,Utilities,10.0,Shower head
+32,2024-12-02,Rent,280.0,House Rent
+33,2024-12-02,Others,1.0,Trash Collect Service
+34,2024-12-02,Food,1.5,Bay Srob
+37,2024-12-02,Bills,2.5,Brake pads
+39,2024-12-02,Shopping,111.11,Chanel Cologne 
